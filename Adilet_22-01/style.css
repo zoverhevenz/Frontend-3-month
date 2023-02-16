@@ -1,0 +1,52 @@
+/* body {
+	background-color: #9fddd5;
+}
+.login_window {
+	width: 350px;
+	height: 235px;
+	background: #fafafa;
+	border-radius: 15px;
+	margin: 200px auto;
+}
+#result {
+	width: 315px;
+	height: 25px;
+}
+.login_input {
+	padding: 15px;
+}
+#email_inp {
+	width: 315px;
+	height: 30px;
+	margin-bottom: 15px;
+	border-radius: 12px;
+	border: solid #198576 2px;
+	text-align: center;
+}
+#password_inp {
+	width: 315px;
+	height: 30px;
+	margin-bottom: 30px;
+	border-radius: 12px;
+	border: solid #198576 2px;
+	text-align: center;
+}
+#login_btn {
+	width: 325px;
+	height: 60px;
+	border-radius: 12px;
+	border: solid #198576 2px;
+	margin-bottom: 15px;
+} */
+.block {
+	width: 400px;
+	height: 200px;
+	border: solid black 1px;
+	position: relative;
+}
+.square {
+	width: 60px;
+	height: 200px;
+	background-color: green;
+	position: absolute;
+}
